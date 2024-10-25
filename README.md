@@ -14,7 +14,7 @@
 
 * [HTML](https://codepen.io/danielrampanelli/pen/vYoWObY)
 * [HTML / Elementi: Titoli](https://codepen.io/danielrampanelli/pen/abeVvKb)
-* [HTML / Elementi: Testi]([TODO](https://codepen.io/danielrampanelli/pen/RwXjaoO))
+* [HTML / Elementi: Testi](https://codepen.io/danielrampanelli/pen/RwXjaoO)
 * [HTML / Elementi: Liste](https://codepen.io/danielrampanelli/pen/PoMONmY)
 * [HTML / Elementi: Immagine](https://codepen.io/danielrampanelli/pen/VworaQN)
 * [HTML / Elementi: Audio](https://codepen.io/danielrampanelli/pen/xxvPjRO)
@@ -39,6 +39,7 @@
 * [Audio MP3 di esempio #1](https://download.samplelib.com/mp3/sample-3s.mp3)
 * [Video MP4 di esempio #1](https://onlinetestcase.com/wp-content/uploads/2023/06/1MB.mp4)
 * [Video MP4 di esempio #2](https://file-examples.com/storage/feb05093336710053a32bc1/2017/04/file_example_MP4_480_1_5MG.mp4)
+
 ### Mockups
 
 * [Sito #1](mockups/website-0.jpg)
