@@ -9,6 +9,7 @@
 * https://coolors.co/generate
 * https://cssgradient.io
 * https://fonts.google.com
+* [Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
 
 ### Codepens
 
