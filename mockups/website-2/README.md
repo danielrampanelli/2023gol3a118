@@ -4,7 +4,7 @@
 
 * ![#4808d0](https://placehold.co/16x16/4808d0/4808d0.png) `#4808d0`
 * ![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`
-* ![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`
+* ![#faefe9](https://placehold.co/16x16/faefe9/faefe9.png) `#faefe9`
 
 #### Immagini
 
