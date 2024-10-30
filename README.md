@@ -1,17 +1,54 @@
-# Tecnico progettazione e sviluppo Web
-## Sviluppo ed implementazione
+# Tecnico progettazione e sviluppo Web - Sviluppo ed implementazione
 
-### Utilità
+* [Lezioni](#lessons)
+* [Mockups](#mockups)
+* [Codepens](#codepens)
+* [Risorse/Link](#resources)
 
-* https://loremipsum.io
-* https://picsum.photos
-* https://www.w3schools.com/tags/ref_colornames.asp
-* https://coolors.co/generate
-* https://cssgradient.io
-* https://fonts.google.com
-* [Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
+---
 
-### Codepens
+<a name="lessons"></a>
+## Lezioni
+
+* [24/10/2024](./lezioni/2024-10-24.pdf)
+* [25/10/2024](./lezioni/2024-10-25.pdf)
+
+<a name="mockups"></a>
+## Mockups
+
+<table width="100%">
+    <tr>
+        <td><strong>Sito #1</strong></td>
+        <td><strong>Sito #2</strong></td>
+        <td><strong>Sito #3</strong></td>
+        <td><strong>Sito #4</strong></td>
+        <td><strong>Sito #5</strong></td>
+        <td><strong>Sito #6</strong></td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <a href="./mockups/website-0/README.md"><img src="./mockups/website-0.jpg" width="100"/></a>
+        </td>
+        <td valign="top">
+            <a href="./mockups/website-1/README.md"><img src="./mockups/website-1.jpg" width="100"/></a>
+        </td>
+        <td valign="top">
+            <a href="./mockups/website-2/README.md"><img src="./mockups/website-2.jpg" width="100"/></a>
+        </td>
+        <td valign="top">
+            <a href="./mockups/website-3/README.md"><img src="./mockups/website-3.jpg" width="100"/></a>
+        </td>
+        <td valign="top">
+            <a href="./mockups/website-4/README.md"><img src="./mockups/website-4.jpg" width="100"/></a>
+        </td>
+        <td valign="top">
+            <a href="./mockups/website-5/README.md"><img src="./mockups/website-5.jpg" width="100"/></a>
+        </td>
+    </tr>
+</table>
+
+<a name="codepens"></a>
+## Codepens
 
 * [HTML](https://codepen.io/danielrampanelli/pen/vYoWObY)
 * [HTML / Elementi: Titoli](https://codepen.io/danielrampanelli/pen/abeVvKb)
@@ -30,9 +67,21 @@
 * [CSS: Font](https://codepen.io/danielrampanelli/pen/JjgOBXV)
 * [CSS: Dimensioni](https://codepen.io/danielrampanelli/pen/ExqbKGe)
 * [CSS: Bordi](https://codepen.io/danielrampanelli/pen/abeVNPR)
+* [CSS: Flusso di pagina](https://codepen.io/danielrampanelli/pen/mdNqKqY)
+* [CSS: Elementi float](https://codepen.io/danielrampanelli/pen/QWeOxaE)
+* [CSS: Posizonamento](https://codepen.io/danielrampanelli/pen/xxvPVmQ)
+* [CSS: Flexbox #1](https://codepen.io/danielrampanelli/pen/KKOyBvo)
+* [CSS: Flexbox #1](https://codepen.io/danielrampanelli/pen/KKOyBvo)
 
-### Risorse
+<a name="resources"></a>
+## Risorse/Link
 
+* [Generatore di testo finto](https://loremipsum.io)
+* [Lista di colori CSS predefiniti](https://www.w3schools.com/tags/ref_colornames.asp)
+* [Generatore di gradienti CSS](https://cssgradient.io)
+* [Lista di font web gratuiti](https://fonts.google.com)
+* [Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
+* [Immagini reali per placeholder/segnaposto](https://picsum.photos)
 * [Foto 640x400 random](https://picsum.photos/640/400)
 * [Foto 1280x800 random](https://picsum.photos/1280/800)
 * [Foto 640x400 random (bianco/nero)](https://picsum.photos/640/400?grayscale)
@@ -40,12 +89,3 @@
 * [Audio MP3 di esempio #1](https://download.samplelib.com/mp3/sample-3s.mp3)
 * [Video MP4 di esempio #1](https://onlinetestcase.com/wp-content/uploads/2023/06/1MB.mp4)
 * [Video MP4 di esempio #2](https://file-examples.com/storage/feb05093336710053a32bc1/2017/04/file_example_MP4_480_1_5MG.mp4)
-
-### Mockups
-
-* [Sito #1](mockups/website-0.jpg)
-* [Sito #2](mockups/website-1.jpg)
-* [Sito #3](mockups/website-2.jpg)
-* [Sito #4](mockups/website-3.jpg)
-* [Sito #5](mockups/website-4.jpg)
-* [Sito #6](mockups/website-5.jpg)
