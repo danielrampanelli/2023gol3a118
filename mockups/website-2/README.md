@@ -20,3 +20,7 @@
 #### Fonts
 
 * [Inter](https://fonts.google.com/specimen/Inter)
+
+<br/><hr/><br/>
+
+![mockup](./website-2.jpg)

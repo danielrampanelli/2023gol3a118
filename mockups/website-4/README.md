@@ -37,3 +37,7 @@
 
 * [DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display)
 * [Lato](https://fonts.google.com/specimen/Lato)
+
+<br/><hr/><br/>
+
+![mockup](./website-4.jpg)

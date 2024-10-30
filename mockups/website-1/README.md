@@ -47,3 +47,7 @@
 #### Fonts
 
 * [Poppins](https://fonts.google.com/specimen/Poppins)
+
+<br/><hr/><br/>
+
+![mockup](./website-1.jpg)

@@ -24,3 +24,7 @@
 #### Fonts
 
 * [PT Serif](https://fonts.google.com/specimen/PT+Serif)
+
+<br/><hr/><br/>
+
+![mockup](./website-3.jpg)

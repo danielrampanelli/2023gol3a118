@@ -1,11 +1,13 @@
 # Tecnico progettazione e sviluppo Web - Sviluppo ed implementazione
 
+<br/>
+
 * [Lezioni](#lessons)
 * [Mockups](#mockups)
 * [Codepens](#codepens)
 * [Risorse/Link](#resources)
 
----
+<br/>
 
 <a name="lessons"></a>
 ## Lezioni
@@ -27,22 +29,22 @@
     </tr>
     <tr>
         <td valign="top">
-            <a href="./mockups/website-0/README.md"><img src="./mockups/website-0.jpg" width="100"/></a>
+            <a href="./mockups/website-0/README.md"><img src="./mockups/website-0/website-0.jpg" width="100"/></a>
         </td>
         <td valign="top">
-            <a href="./mockups/website-1/README.md"><img src="./mockups/website-1.jpg" width="100"/></a>
+            <a href="./mockups/website-1/README.md"><img src="./mockups/website-1/website-1.jpg" width="100"/></a>
         </td>
         <td valign="top">
-            <a href="./mockups/website-2/README.md"><img src="./mockups/website-2.jpg" width="100"/></a>
+            <a href="./mockups/website-2/README.md"><img src="./mockups/website-2/website-2.jpg" width="100"/></a>
         </td>
         <td valign="top">
-            <a href="./mockups/website-3/README.md"><img src="./mockups/website-3.jpg" width="100"/></a>
+            <a href="./mockups/website-3/README.md"><img src="./mockups/website-3/website-3.jpg" width="100"/></a>
         </td>
         <td valign="top">
-            <a href="./mockups/website-4/README.md"><img src="./mockups/website-4.jpg" width="100"/></a>
+            <a href="./mockups/website-4/README.md"><img src="./mockups/website-4/website-4.jpg" width="100"/></a>
         </td>
         <td valign="top">
-            <a href="./mockups/website-5/README.md"><img src="./mockups/website-5.jpg" width="100"/></a>
+            <a href="./mockups/website-5/README.md"><img src="./mockups/website-5/website-5.jpg" width="100"/></a>
         </td>
     </tr>
 </table>

@@ -14,3 +14,7 @@
 #### Fonts
 
 * [Inter](https://fonts.google.com/specimen/Inter)
+
+<br/><hr/><br/>
+
+![mockup](./website-0.jpg)

@@ -29,3 +29,7 @@
 #### Fonts
 
 * [DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display)
+
+<br/><hr/><br/>
+
+![mockup](./website-5.jpg)
