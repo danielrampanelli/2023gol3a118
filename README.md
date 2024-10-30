@@ -73,7 +73,7 @@
 * [CSS: Elementi float](https://codepen.io/danielrampanelli/pen/QWeOxaE)
 * [CSS: Posizonamento](https://codepen.io/danielrampanelli/pen/xxvPVmQ)
 * [CSS: Flexbox #1](https://codepen.io/danielrampanelli/pen/KKOyBvo)
-* [CSS: Flexbox #1](https://codepen.io/danielrampanelli/pen/KKOyBvo)
+* [CSS: Flexbox #2](https://codepen.io/danielrampanelli/pen/KKOyBvo)
 
 <a name="resources"></a>
 ## Risorse/Link
