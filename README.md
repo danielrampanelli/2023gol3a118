@@ -14,6 +14,8 @@
 
 * [24/10/2024](./lezioni/2024-10-24.pdf)
 * [25/10/2024](./lezioni/2024-10-25.pdf)
+* [30/10/2024](./lezioni/2024-10-30.pdf)
+* [04/11/2024](./lezioni/2024-11-04.pdf)
 
 <a name="mockups"></a>
 ## Mockups
@@ -74,6 +76,12 @@
 * [CSS: Posizonamento](https://codepen.io/danielrampanelli/pen/xxvPVmQ)
 * [CSS: Flexbox #1](https://codepen.io/danielrampanelli/pen/KKOyBvo)
 * [CSS: Flexbox #2](https://codepen.io/danielrampanelli/pen/KKOyBvo)
+* [Link](https://codepen.io/danielrampanelli/pen/RwXBRLy)
+* [Ancore](https://codepen.io/danielrampanelli/pen/RwXBGRd)
+* [Tabelle](https://codepen.io/danielrampanelli/pen/oNKMLVq)
+* [Grid #1](https://codepen.io/danielrampanelli/pen/PoMBGEw)
+* [Grid #2](https://codepen.io/danielrampanelli/pen/poMZNbV)
+* [Grid #3](https://codepen.io/danielrampanelli/pen/zYgLoKe)
 
 <a name="resources"></a>
 ## Risorse/Link
