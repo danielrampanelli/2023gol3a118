@@ -1,0 +1,81 @@
+body {
+    font-family: "PT Serif", serif;
+    margin: 40px;
+}
+
+.griglia {
+    display: grid;
+    gap: 40px;
+    grid-template-columns: 400px 1fr;
+    grid-template-rows: repeat(2, 400px);
+
+    .foto_grande {
+        background-image: url(https://github.com/danielrampanelli/gol3a118/blob/main/mockups/website-3/image2.png?raw=true);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        grid-row: span 2;
+        height: 100%;
+        width: 100%;
+    }
+
+    .prodotto {
+        display: flex;
+        flex-direction: row;
+        gap: 80px;
+
+        img {
+            object-fit: cover;
+            width: 300px;
+        }
+
+        .dettagli {
+            align-self: center;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            max-width: 480px;
+
+            .prezzo {
+                font-size: 24px;
+            }
+
+            .sottotitolo {
+                font-size: 16px;
+                text-transform: uppercase;
+            }
+
+            .descrizione {
+                font-size: 18px;
+                padding: 10px 0;
+            }
+
+            .azioni {
+                display: flex;
+                flex-direction: row;
+                gap: 10px;
+
+                button {
+                    appearance: none;
+                    background-color: black;
+                    border: 0;
+                    color: white;
+                    cursor: pointer;
+                    font-family: inherit;
+                    font-size: 16px;
+                    padding: 5px 20px;
+                    text-transform: uppercase;
+                }
+
+                input {
+                    border: 2px solid black;
+                    font-family: inherit;
+                    font-size: 20px;
+                    padding: 0 5px;
+                    text-align: center;
+                    width: 50px;
+                }
+            }
+        }
+    }
+}

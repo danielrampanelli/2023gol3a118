@@ -3,6 +3,7 @@
 <br/>
 
 * [Lezioni](#lessons)
+* [Esempi](#examples)
 * [Mockups](#mockups)
 * [Codepens](#codepens)
 * [Risorse/Link](#resources)
@@ -16,6 +17,13 @@
 * [25/10/2024](./lezioni/2024-10-25.pdf)
 * [30/10/2024](./lezioni/2024-10-30.pdf)
 * [04/11/2024](./lezioni/2024-11-04.pdf)
+* [11/11/2024](./lezioni/2024-11-11.pdf)
+
+<a name="examples"></a>
+## Esempi
+
+* Sito #4: Griglia ([HTML](./esempi/website3-griglia.html)/[CSS](./esempi/website3-griglia.css))
+* Sito #5: Booking ([HTML](./esempi/website4-booking.html)/[CSS](./esempi/website4-booking.css))
 
 <a name="mockups"></a>
 ## Mockups
@@ -82,6 +90,15 @@
 * [Grid #1](https://codepen.io/danielrampanelli/pen/PoMBGEw)
 * [Grid #2](https://codepen.io/danielrampanelli/pen/poMZNbV)
 * [Grid #3](https://codepen.io/danielrampanelli/pen/zYgLoKe)
+* [Responsive: Layout fluidi](https://codepen.io/danielrampanelli/pen/gOVZPbG)
+* [Responsive: Layout addattivi](https://codepen.io/danielrampanelli/pen/mdNaVeM)
+* [Responsive: Mobile-First](https://codepen.io/danielrampanelli/pen/GRVPZLR)
+* [Responsive: Desktop-First](https://codepen.io/danielrampanelli/pen/abePZvQ)
+* [CSS: Transizioni](https://codepen.io/danielrampanelli/pen/zYgPwPR)
+* [CSS: Animazioni](https://codepen.io/danielrampanelli/pen/ExqbmbE)
+* [HTML: Form](https://codepen.io/danielrampanelli/pen/zYgyrox)
+* [HTML: Inputs & Buttons](https://codepen.io/danielrampanelli/pen/rNXoLWr)
+* [Javascript](https://codepen.io/danielrampanelli/pen/ZEgVOBo)
 
 <a name="resources"></a>
 ## Risorse/Link
