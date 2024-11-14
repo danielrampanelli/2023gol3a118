@@ -4,6 +4,7 @@
 
 * [Lezioni](#lessons)
 * [Esempi](#examples)
+* [Esercizi](#exercises)
 * [Mockups](#mockups)
 * [Codepens](#codepens)
 * [Risorse/Link](#resources)
@@ -18,12 +19,20 @@
 * [30/10/2024](./lezioni/2024-10-30.pdf)
 * [04/11/2024](./lezioni/2024-11-04.pdf)
 * [11/11/2024](./lezioni/2024-11-11.pdf)
+* [14/11/2024](./lezioni/2024-11-14.pdf)
 
 <a name="examples"></a>
 ## Esempi
 
 * Sito #4: Griglia ([HTML](./esempi/website3-griglia.html)/[CSS](./esempi/website3-griglia.css))
 * Sito #5: Booking ([HTML](./esempi/website4-booking.html)/[CSS](./esempi/website4-booking.css))
+* Auguri ([HTML](./esempi/auguri.html)/[CSS](./esempi/auguri.css))
+
+<a name="exercises"></a>
+## Esercizi
+
+* [Responsive](./esercizi/responsive.md)
+* [WordPress](./esercizi/wordpress.md)
 
 <a name="mockups"></a>
 ## Mockups
