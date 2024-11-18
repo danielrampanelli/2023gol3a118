@@ -33,6 +33,7 @@
 
 * [Responsive](./esercizi/responsive.md)
 * [WordPress](./esercizi/wordpress.md)
+* [Tema WordPress](./esercizi/mytheme.zip)
 
 <a name="mockups"></a>
 ## Mockups
