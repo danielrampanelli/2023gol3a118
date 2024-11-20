@@ -9,7 +9,7 @@
 * [Codepens](#codepens)
 * [Risorse/Link](#resources)
 * [Laboratorio](./laboratorio.md)
-* [WordPress](./laboratorio.md)
+* [WordPress](./wordpress.md)
 
 <br/>
 
