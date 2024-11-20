@@ -8,6 +8,8 @@
 * [Mockups](#mockups)
 * [Codepens](#codepens)
 * [Risorse/Link](#resources)
+* [Laboratorio](./laboratorio.md)
+* [WordPress](./laboratorio.md)
 
 <br/>
 
@@ -28,13 +30,6 @@
 * Sito #4: Griglia ([HTML](./esempi/website3-griglia.html)/[CSS](./esempi/website3-griglia.css))
 * Sito #5: Booking ([HTML](./esempi/website4-booking.html)/[CSS](./esempi/website4-booking.css))
 * Auguri ([HTML](./esempi/auguri.html)/[CSS](./esempi/auguri.css))
-
-<a name="exercises"></a>
-## Esercizi
-
-* [Responsive](./esercizi/responsive.md)
-* [WordPress](./esercizi/wordpress.md)
-* [Tema WordPress](./esercizi/mytheme.zip)
 
 <a name="mockups"></a>
 ## Mockups
