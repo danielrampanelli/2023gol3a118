@@ -8,7 +8,7 @@ Per far funzionare un sito in WordPress serve un "web server" (Apache, PHP) e un
 
 Qui di seguito potete scaricare un pacchetto software per Windows che contiene tutto il necessario e non necessita particolari operazioni di installazione:
 
-[WordPress.zip](https://raw.githubusercontent.com/danielrampanelli/gol3a118/master/wordpress/WordPress-Windows.zip)
+[WordPress-Windows.zip](https://raw.githubusercontent.com/danielrampanelli/gol3a118/master/wordpress/WordPress-Windows.zip)
 
 Una volta scaricato, estraete i file dell'archivio e spostate la cartella `WordPress` dove preferite.
 
